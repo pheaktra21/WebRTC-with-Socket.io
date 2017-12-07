@@ -1,0 +1,13 @@
+{
+  "name": "socketio-with-webrtc",
+  "version": "1.0.0",
+  "description": "Testing media streaming with WebRTC using Socket.io as messaging service.",
+  "main": "server.js",
+  "author": "Pheaktra P. Chhaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "socket.io-stream": "^0.9.1"
+  }
+}
